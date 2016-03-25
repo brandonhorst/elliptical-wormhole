@@ -1,4 +1,4 @@
-import _ from 'lodash'
+const _ = require('lodash')
 
 exports.createProcessor = function createProcessor (context) {
   return function processor (element) {
