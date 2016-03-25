@@ -1,0 +1,43 @@
+{
+  "name": "elliptical-context",
+  "version": "1.0.0-rc1",
+  "description": "Wormhole data for Elliptical - context that is passed to every Phrase",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laconalabs/elliptical-context.git"
+  },
+  "keywords": [
+    "lingustic",
+    "natural",
+    "language",
+    "parsing",
+    "lacona",
+    "context",
+    "wormhole",
+    "async",
+    "asyncronous",
+    "interactive"
+  ],
+  "author": {
+    "name": "Brandon Horst",
+    "email": "brandonhorst@gmail.com",
+    "url": "http://github.com/brandonhorst"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laconalabs/elliptical-context/issues"
+  },
+  "homepage": "https://github.com/laconalabs/elliptical-context",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "standard": "^6.0.8"
+  },
+  "dependencies": {
+    "lodash": "^4.6.1"
+  }
+}
