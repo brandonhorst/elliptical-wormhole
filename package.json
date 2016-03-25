@@ -1,6 +1,6 @@
 {
   "name": "elliptical-context",
-  "version": "1.0.0-rc1",
+  "version": "1.0.0-rc2",
   "description": "Wormhole data for Elliptical - context that is passed to every Phrase",
   "main": "index.js",
   "scripts": {
