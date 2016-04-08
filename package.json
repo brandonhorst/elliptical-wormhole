@@ -1,7 +1,7 @@
 {
-  "name": "elliptical-context",
+  "name": "elliptical-wormhole",
   "version": "1.0.0-rc2",
-  "description": "Wormhole data for Elliptical - context that is passed to every Phrase",
+  "description": "Wormhole data for Elliptical - an object that is added to every element",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
