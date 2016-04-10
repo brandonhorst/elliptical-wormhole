@@ -2,6 +2,9 @@ const _ = require('lodash')
 
 exports.createProcessor = function createProcessor (value, name) {
   return function processor (element) {
-    return _.assign({}, element, {[name]: value})
+    // don't want to use babel to support es6 syntax
+    var obj = {}
+    obj[name] = value
+    return _.assign({}, element, obj)
   }
 }
