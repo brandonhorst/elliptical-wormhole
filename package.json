@@ -1,6 +1,6 @@
 {
   "name": "elliptical-wormhole",
-  "version": "1.0.0-rc2",
+  "version": "1.0.0-rc3",
   "description": "Wormhole data for Elliptical - an object that is added to every element",
   "main": "index.js",
   "scripts": {
