@@ -1,6 +1,6 @@
 {
   "name": "elliptical-wormhole",
-  "version": "1.0.0-rc3",
+  "version": "1.0.0",
   "description": "Wormhole data for Elliptical - an object that is added to every element",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/laconalabs/elliptical-context.git"
+    "url": "https://github.com/laconalabs/elliptical-wormhole.git"
   },
   "keywords": [
     "lingustic",
@@ -29,9 +29,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/laconalabs/elliptical-context/issues"
+    "url": "https://github.com/laconalabs/elliptical-wormhole/issues"
   },
-  "homepage": "https://github.com/laconalabs/elliptical-context",
+  "homepage": "https://github.com/laconalabs/elliptical-wormhole",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.4.5",
